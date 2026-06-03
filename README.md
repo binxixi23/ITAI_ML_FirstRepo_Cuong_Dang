@@ -48,3 +48,25 @@ Developing Resilient AI, Robotics, and Secure Systems.
 ### 📫 Connect With Me
 * **LinkedIn:** www.linkedin.com/in/cuong-dang-bb42a0385
 * **Email:** binxixi23@gmail.com
+
+
+
+---
+
+## 👥 Course Team Members & Git Branches
+
+This repository is a collaborative project for the **Intro to Machine Learning (ITAI-1371)** course. Below is our team directory and the Git branching strategy utilized to verify individual commit contributions:
+
+
+| Team Member | Project Role | Assigned Git Feature Branch |
+| :--- | :--- | :--- |
+| 👑 **Cuong Dang** | Team Lead & Repository Creator | `main` (Initial Repository Architecture) |
+| 🚀 **Jonathan Aldana** | Project Contributor | `feature/hello-jonathan` |
+| 🚀 **Astríd Lorenzana** | Project Contributor | `feature/hello-astrid` |
+| 🚀 **Ruben Nuno** | Project Contributor | `feature/hello-ruben` |
+
+### 🛠️ Execution Rules
+* Every member must clone the repository locally.
+* No team member is allowed to push code directly to the `main` branch.
+* A strict Peer-Review Pull Request (PR) workflow must be verified before merging greetings into `hello_ml.txt`.
+
