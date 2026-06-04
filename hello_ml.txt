@@ -2,4 +2,8 @@ This is my first GitHub file for the Classic Machine Learning course.
 
 
 Hello from Cuong Dang.
+
+Hello from Jonathan Aldana.
+
 Hello from Astrid Lorenzana.
+
