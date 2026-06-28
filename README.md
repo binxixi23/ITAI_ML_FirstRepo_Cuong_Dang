@@ -64,8 +64,10 @@ This repository is a collaborative project for the **Intro to Machine Learning (
 | 🚀 **Jonathan Aldana** | Project Contributor | `feature/hello-jonathan` |
 | 🚀 **Astríd Lorenzana** | Project Contributor | `feature/hello-astrid` |
 | 🚀 **Ruben Nuno** | Project Contributor | `feature/hello-ruben` |
+| 🚀 **Dana Bolden** | Project Contributor | `feature/hello-dana` |
 
 ### 🛠️ Execution Rules
+
 * Every member must clone the repository locally.
 * No team member is allowed to push code directly to the `main` branch.
 * A strict Peer-Review Pull Request (PR) workflow must be verified before merging greetings into `hello_ml.txt`.
